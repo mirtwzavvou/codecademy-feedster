@@ -1,2 +1,2 @@
-# codecademy-feedster
-AngularJS Codecademy tutorial Feedster
+# AngularJS Codecademy tutorial Feedster
+
